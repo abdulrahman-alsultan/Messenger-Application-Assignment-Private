@@ -1,0 +1,6 @@
+framework module Pods_Messenger_Application_Assignment_Messenger_Application_AssignmentUITests {
+  umbrella header "Pods-Messenger Application Assignment-Messenger Application AssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
